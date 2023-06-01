@@ -1,5 +1,7 @@
 # BucketSort
 * Códigos em C e em C++ da implementação do método de ordenação BucketSort que utiliza o Counting Sort para a ordenação individual dos baldes.
+* Os vetores a serem ordenados são gerados aleatoriamente. Para mudar o tamanho do vetor, basta mudar a constante `tam_vet`, declarada em `bucketsort.h` e `BucketSort.cpp`
+* Cada pasta (C e C++) tem seu próprio makefile. Abra uma delas no seu terminal antes de executar o código.
 * Comandos de execução:
 *   | Comando                |  Função                                                                                           |                     
     | -----------------------| ------------------------------------------------------------------------------------------------- |
